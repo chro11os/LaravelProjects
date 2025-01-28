@@ -52,3 +52,11 @@ Follow these steps to set up the project locally:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/chro11os/LaravelProjects.git
+   
+2. **CD into the folder**:
+    ```bash
+   cd LaravelProjects
+
+3. **Run Npm Install**:
+    ```bash
+   npm install
