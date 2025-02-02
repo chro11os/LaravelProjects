@@ -7,8 +7,11 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Home</title>
     <h1> Tea </h1>
+
     <a href="/login" class="btn"> Login </a>
-    <a href="/">
+    <a href="/register" class="btn"> Register </a>
+    <a href="/forgot-password" class="btn"> Forgot Password? </a>
+    
 </head>
 <body>
 
