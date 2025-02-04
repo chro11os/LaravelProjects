@@ -1,13 +1,17 @@
+@tailwind utilities;
 @tailwind base;
 @tailwind components;
-@tailwind utilities;
 
 body {
     font-family: 'Exo 2', monospace;
 }
 
 .btn {
-    @apply bg-blue-500 text-white p-2;
+   background-color: black;
+    color: white;
+    border: antiquewhite;
+    border-radius: 5px;
+    border-style: dashed;
 }
 /* Still Dont Know How to Link this shit, but ill try anyways, this is the primary reason why i hate frameworks. */
 
