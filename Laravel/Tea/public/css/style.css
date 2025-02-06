@@ -7,11 +7,22 @@ body {
 }
 
 .btn {
-   background-color: black;
-    color: white;
-    border: antiquewhite;
+    color: black;
     border-radius: 5px;
-    border-style: dashed;
 }
-/* Still Dont Know How to Link this shit, but ill try anyways, this is the primary reason why i hate frameworks. */
+/* finally equipped this shit */
 
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.view {
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    color: cornsilk;
+}

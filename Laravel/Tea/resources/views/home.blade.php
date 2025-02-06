@@ -16,10 +16,15 @@
     <title>Home</title>
 </head>
 <body>
-    <h1> Tea </h1>
 
-    <a href="{{ route('password.request') }}" class="btn"> Forgot Password? </a>
-    <a href="{{ route('login') }}" class="btn"> Login </a>
+    <div class="view">
+        <ul>
+            <a href="{{ route('password.request') }}" class="btn"> Forgot Password? </a>
+            <a href="{{ route('login') }}" class="btn"> Login </a>
+            <a href="{{ route('register') }}" class="btn"> Register </a>
+            <a href="">
+        </ul>
+    </div>
 
 </body>
 </html>
