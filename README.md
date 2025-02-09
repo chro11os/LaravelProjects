@@ -1,6 +1,4 @@
----
-
-## 🍵 Tea - The Hottest News & Updates
+# 🍵 Tea - The Hottest News & Updates
 
 **Tea** is your ultimate source for the latest and juiciest news from around the world. Whether it's a celebrity breakup, shocking revelations, industry shake-ups, or breaking headlines, we've got you covered with real-time updates and exclusive insights.  
 
